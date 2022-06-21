@@ -219,8 +219,8 @@ $(".dice_btn").click(function () {
 })
 
 $("#up_coin_btn").click(function(){
-    if($("#up_coin_input").val() == "nhatnguyendeptrainhatthegioi"){
-        alert("Tất nhiên Rồi <3");
+    if($("#up_coin_input").val() == "Nagata Asami"){
+        alert("vai");
         var my_coin_latter = $("#my_coin").html() * 1;
 
         my_coin_latter += 2000;
